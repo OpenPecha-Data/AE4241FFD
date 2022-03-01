@@ -1,0 +1,28 @@
+segment_sources:
+  P8894696E:
+    type: origin_type
+    relation: translation
+    language: sa
+  P79A1EA21:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  e1f1c7aef98547dc8c42e1691921cbe8:
+    P8894696E: a7fee93346b746dcbfc130a83b289e73
+    P79A1EA21: 95007609e3e443fbae6625a2050dc7ca
+  aad230583caf4aed9358edb99dce4490:
+    P8894696E: d48c1d3e126e4be194591fd4a645c0bc
+    P79A1EA21: b96e4d974f654d85b5b922627c2d1faa
+  ad9549a640b0414f94d47a3c644fb1e0:
+    P8894696E: b72569d301dc45e9aeacc48d74902c95
+    P79A1EA21: 437eeaecf222434f9a2af61405772b59
+  db57e877d13a4c7cbfa9b12630092114:
+    P8894696E: 0ba65a98e4e14573bc5fe1f835f123fb
+    P79A1EA21: ccfe29f651fb4764a64691ba762e4e70
+  4f37551b9a7c40cba8beacfc68501794:
+    P8894696E: 8cfacbe6a00c4149bf409039a23dcbbd
+    P79A1EA21: d7b6d9d6ea31439188e93d9c77242a32
+  edcc75edf41041b2ab6ebe1b051a3e6d:
+    P8894696E: 68260770e19344dcae127e5a62943fca
+    P79A1EA21: e222a868598840d39e214a98dfd6fe9b

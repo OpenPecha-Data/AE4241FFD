@@ -1,0 +1,19 @@
+segment_sources:
+  P8894696E:
+    type: origin_type
+    relation: translation
+    language: sa
+  P79A1EA21:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  1f50cacfa17645c18dccd5dfed914225:
+    P8894696E: 785268ac25214b2d937995630dcaf307
+    P79A1EA21: 1954a72020fb43e9b127757faa3c3ff3
+  8375135e25b3470ebe60fb99cf2b89e0:
+    P8894696E: a1a8be619fe3430685ddb16b22a1a4d3
+    P79A1EA21: 946685d7037f461c877b91a43ba4a894
+  e8a1ce9a7bf64a89b2d8f07f97b62481:
+    P8894696E: e25d31a33fdf4cc4b314b7c5e4e574b3
+    P79A1EA21: 700bc68272284f06b7511f0f8738b60f
